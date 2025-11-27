@@ -1,0 +1,7 @@
+{
+  "name": "FocusCore",
+  "description": "An agentic productivity system that plans your projects using Gemini, tracks your focus with deep work timers, and analyzes your productivity patterns.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
